@@ -1,0 +1,20 @@
+.main {
+	border: 2px solid #f8f9fa;
+	width: 50%;
+	margin: 5em auto;
+	padding: 1em;
+	border-radius: 5px;
+}
+/* 
+.custom-btn {
+	margin: 0 10px; /* Add margin to separate the buttons */
+	border-radius: 20px; /* Add rounded corners */
+	padding: 10px 20px; /* Add padding for better readability */
+	font-size: 16px; /* Increase font size */
+	font-weight: bold; /* Make text bold */
+  } */
+  
+  .active {
+	background-color: yellow;
+	color: black;
+  }  

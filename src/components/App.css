@@ -1,0 +1,19 @@
+/* Styles go here */
+.wallet__alert {
+	margin-top: 3.5em;
+	text-align: center;
+}
+
+.wallet__alert span a {
+	font-weight: 700;
+	color: green;
+}
+
+.contents {
+	margin-top: 2.5em;
+	text-align: center;
+}
+
+.body {
+	background-color: #f0f0f0; /* Change this to the desired background color */
+}

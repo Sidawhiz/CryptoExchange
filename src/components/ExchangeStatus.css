@@ -1,0 +1,29 @@
+.exchange-status {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .exchange-status h2 {
+    margin-top: 0;
+  }
+  
+  .balance-item {
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: bold;
+    display: block;
+  }
+  
+  .balance-bar {
+    width: 100%;
+  }
+  
+  .value {
+    margin-top: 5px;
+  }
+  
