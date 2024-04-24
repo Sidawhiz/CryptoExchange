@@ -20,6 +20,6 @@ Run ```npm install```. This will install :
 4) Truffle : Development framework for Etherium (Truffle is globally installed in my PC and will not install again)
 5) Chai : For writing test-cases and verifying them
 # Start App
-Step 1) ```truffle migrate --reset``` (deploy contracts on the network)
-Step 2) ```npm start``` (connect and access contracts on network from browser)
+1) ```truffle migrate --reset``` (deploy contracts on the network)
+2) ```npm start``` (connect and access contracts on network from browser)
 
