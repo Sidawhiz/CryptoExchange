@@ -22,4 +22,6 @@ Run ```npm install```. This will install :
 # Start App
 1) ```truffle migrate --reset``` (deploy contracts on the network)
 2) ```npm start``` (connect and access contracts on network from browser)
-
+# References
+1) DApp University : https://github.com/dappuniversity/starter_kit/tree/master
+2) https://medium.com/coinmonks/solidity-lesson-28-understanding-the-erc-20-token-928758f053e1
