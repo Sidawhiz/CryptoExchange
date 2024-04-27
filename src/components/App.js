@@ -20,6 +20,7 @@ class App extends Component {
 
   async loadAccountData(){
     const web = window.web3; // done to avoid typing it again and again
+    await window.ethereum.enable();
     const accounts = await web.eth.getAccounts(); // get accounts array that we are connected with 
     this.setState({accountSet : accounts});
     this.setState({account : accounts[0]});
